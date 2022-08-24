@@ -10,4 +10,4 @@ We will analyse the results of A/B tests conducted by an e-commerce website. The
 * Perhaps run the experiment longer to make their decision.
 
 ### What I learnt from this project
-This project was conducted to test the knowledge of sampling distributions, hypothesis testing, significance of z-scores and p-values and implementation of Regression algorithms.
+This project was conducted to test the knowledge of sampling distributions, hypothesis testing, significance of z-scores & p-values and implementation of Regression algorithms.
